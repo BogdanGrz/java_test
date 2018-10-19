@@ -15,7 +15,9 @@ public class Sqllite_test {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("test");
+        System.out.println("test0");
+        System.out.println("test2");
+        System.out.println("test3");
     }
     
 }
